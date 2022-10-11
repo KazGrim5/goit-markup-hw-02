@@ -1,0 +1,128 @@
+/*header*/
+.body {
+    font-family: roboto;
+    font-style: normal;
+    color: #212121;
+}
+.logo {
+    font-family: raleway;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.17;
+}
+.web {
+    color: #2196F3;
+}
+.link {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.17;
+    font-size: 14px;
+    color: #212121;
+}
+.link:hover {
+    color: #2196F3;
+    cursor: pointer;
+}
+/*index*/
+.back {
+    background-color: #2f303a;
+}
+.title {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    color: #fff;
+}
+.buttonback {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    color: #fff;
+    background-color: #2196F3;
+}
+.back2 {
+    background-color: #e5e5e5;
+}
+.lorem {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+}
+.ipsum {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #757575;
+}
+.title2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+}
+.back3 {
+    background-color: #f5f4fa;
+}
+.title3 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+}
+.john {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.17;
+}
+.doe {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.17;
+    color: #757575;
+}
+/*portfolio*/
+.button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.63;
+    color: #212121;
+    background-color: #f5f4fa;
+    cursor: pointer;
+}
+.button:hover {
+    color: #fff;
+    background-color: #2196F3;
+    cursor: pointer;
+}
+.tiles {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+}
+.tiles2 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.88;
+    color: #757575;
+}
+/*footer*/
+.logo2 {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.17;
+    color: #fff;
+}
+.address {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #fff;
+}
+.contact {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: rgba(255, 255, 255, 0.6)
+}
