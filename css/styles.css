@@ -1,8 +1,9 @@
 /*header*/
 .body {
-    font-family: roboto;
+    font-family: "roboto", sans-serif;
     font-style: normal;
     color: #212121;
+    list-style: none;
 }
 .logo {
     font-family: raleway;
@@ -37,11 +38,13 @@
     color: #fff;
 }
 .buttonback {
+    font-family: inherit;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.87;
     color: #fff;
     background-color: #2196F3;
+    cursor: pointer;
 }
 .back2 {
     background-color: #e5e5e5;
@@ -52,7 +55,6 @@
     line-height: 1.14;
 }
 .ipsum {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     color: #757575;
@@ -76,13 +78,13 @@
     line-height: 1.17;
 }
 .doe {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.17;
     color: #757575;
 }
 /*portfolio*/
 .button {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -101,7 +103,6 @@
     line-height: 2;
 }
 .tiles2 {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
     color: #757575;
@@ -115,15 +116,16 @@
     color: #fff;
 }
 .address {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     color: #fff;
 }
 .contact {
     text-decoration: none;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     color: rgba(255, 255, 255, 0.6)
+}
+li {
+    list-style: none;
 }
